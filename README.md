@@ -29,12 +29,12 @@ A **Python-based Telegram bot** that **echoes** any text messages it receives. T
 Clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/GhostKX/Echo-Bot.git
+git clone https://github.com/GhostKX/New-Echo-Bot.git
 ```
 
 ### 2. Navigate to the file
 ```
-cd Echo-Bot
+cd New-Echo-Bot
 ```
 
 ### 3. Install the required dependencies
