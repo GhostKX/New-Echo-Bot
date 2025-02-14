@@ -51,7 +51,7 @@ API_KEY=Your-Telegram-API-Key
 
 ### 5. Run the bot
 ```
-python EchoBot_firstbot.py
+python NewEchoBot.py
 ```
 
 ## Usage
