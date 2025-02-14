@@ -68,7 +68,7 @@ Welcome to the Telegram Echo Bot!
 Choose an option:
 /start
 
-Bot's message >>> Hi, John Doe
+Bot's message >>> Hi, Robin Hood
 Bot's message >>> Welcome to the First Echo bot!
 
 Text message echo:
