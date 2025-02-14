@@ -7,6 +7,7 @@ API_KEY = str(os.getenv('API_KEY'))
 bot = telebot.TeleBot(API_KEY)
 
 
+# Load API Key from .env file
 @bot.message_handler(commands=['start'])
 def start_bot(message):
     user_id = message.from_user.id
@@ -25,4 +26,5 @@ def handling_user_text(message):
     bot.register_next_step_handler_by_chat_id(user_id, handling_user_text)
 
 
+# Start polling
 bot.polling(non_stop=True)
